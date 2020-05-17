@@ -1,4 +1,4 @@
-# Practise-Python
+# practise python
 > Repository for practising Python
 >
-> Python新手代码练习系列
+> 一个练习了N年的个人Python练习生
